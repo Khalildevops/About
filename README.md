@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Khalil</h1>
 <h3 align="center">Applications Developer from Atlanta, Georgia with a passion for continuous learning and an unbridled interest in Database Management</h3>
 
