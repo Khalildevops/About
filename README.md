@@ -19,15 +19,13 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h3 align="center">Applications Developer with a passion for continuous learning and an unbridled interest in ServiceNow Configuration and Database Management</h3>
-
+ <p align="center">  - 📫 You can reach me **khalilcreativeworks@gmail.com** -</p>
           <p align="center"> - 🔭 I’m currently working on Corporate-Gifting ITSM application and Cloud Dimensions CMDB application </p>
-
                   <p align="center">- 🌱 I’m currently learning **ServiceNow Systems Administration Development + AngularJS**</p> -
-
                              <p align="center"> - 👨‍💻 All of my projects are available at github.com/Khalildevops - </p>
-
                                  <p align="center">  - 📫 You can reach me **khalilcreativeworks@gmail.com** -</p>
 
+              
 <h3 align="center">Connect with me</h3>
 <p align="center">
 </p>
