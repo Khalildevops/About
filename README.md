@@ -20,13 +20,13 @@
 </div>
 <h3 align="center">Applications Developer from Atlanta, Georgia with a passion for continuous learning and an unbridled interest in ServiceNow Configuration and Database Management</h3>
 
-                            - 🔭 I’m currently working on [Corporate-Gifting](Khalildevops/Corporate Gifting) -
+                        - 🔭 I’m currently working on [Corporate-Gifting](Khalildevops/Corporate Gifting) -
 
-                                  - 🌱 I’m currently learning **ServiceNow Administration + AngularJS** -
+                              - 🌱 I’m currently learning **ServiceNow Administration + AngularJS** -
 
-                                - 👨‍💻 All of my projects are available at [github.com/Khalildevops](github.com/Khalildevops) -
+                   - 👨‍💻 All of my projects are available at [github.com/Khalildevops](github.com/Khalildevops) -
 
-                                                      - 📫 How to reach me **copelandkcw@gmail.com** -
+                                          - 📫 How to reach me **copelandkcw@gmail.com** -
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
