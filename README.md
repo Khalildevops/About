@@ -13,20 +13,20 @@
   </a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Khalil</h1>
+<h1 align="center">Hello 👋, I'm Khalil</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h3 align="center">Applications Developer from Atlanta, Georgia with a passion for continuous learning and an unbridled interest in ServiceNow Configuration and Database Management</h3>
 
-                        - 🔭 I’m currently working on [Corporate-Gifting](Khalildevops/Corporate Gifting) -
+                      - 🔭 I’m currently working on [Corporate-Gifting](Khalildevops/Corporate Gifting) -
 
-                              - 🌱 I’m currently learning **ServiceNow Administration + AngularJS** -
+                  - 🌱 I’m currently learning **ServiceNow Systems Administration Development + AngularJS** -
 
-                   - 👨‍💻 All of my projects are available at [github.com/Khalildevops](github.com/Khalildevops) -
+                 - 👨‍💻 All of my projects are available at [github.com/Khalildevops](github.com/Khalildevops) -
 
-                                          - 📫 How to reach me **copelandkcw@gmail.com** -
+                                        - 📫 How to reach me **copelandkcw@gmail.com** -
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
