@@ -24,9 +24,9 @@
 
                   - 🌱 I’m currently learning **ServiceNow Systems Administration Development + AngularJS** -
 
-                 - 👨‍💻 All of my projects are available at [github.com/Khalildevops](github.com/Khalildevops) -
+                              - 👨‍💻 All of my projects are available at github.com/Khalildevops
 
-                                      - 📫 How to reach me **khalilcreativeworks@gmail.com** -
+                                   - 📫 You can reach me **khalilcreativeworks@gmail.com** -
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
