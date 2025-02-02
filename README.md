@@ -20,7 +20,7 @@
 </div>
 <h3 align="center">Applications Developer from Atlanta, Georgia with a passion for continuous learning and an unbridled interest in ServiceNow Configuration and Database Management</h3>
 
-                      - 🔭 I’m currently working on [Corporate-Gifting](Khalildevops/Corporate Gifting) -
+           - 🔭 I’m currently working on Corporate-Gifting ITSM application and Cloud Dimensions CMDB application -
 
                   - 🌱 I’m currently learning **ServiceNow Systems Administration Development + AngularJS** -
 
