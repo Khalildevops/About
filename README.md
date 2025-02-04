@@ -29,8 +29,8 @@
                              
                                   - 📫 You can reach me **khalilcreativeworks@gmail.com** - 
                                   
-<div>              
-<a align="center" width="300" height="200"> <img src="service-now-asset-management-1_cover.png" /a> </div>
+          
+<a align="center"> <img src="service-now-asset-management-1_cover.png" width="300" height="200"/a>
 <h3 align="center">Connect with me</h3>
 <p align="center">
 </p> </div>
