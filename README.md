@@ -14,7 +14,7 @@
 </div>
 <div align="center" <h2>Hello! </div> 
 <div align="center" <h2>I'm Khalil</h2> </div>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div align="center"> img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 <h3 align="center">Applications Developer with a passion for continuous learning and an unbridled interest in ServiceNow Configuration and Database Management</h3>
  <p align="center"> 
