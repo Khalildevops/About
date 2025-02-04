@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<p style="font-size:30px; text-align:center"> Hello! </p> 
+<p style="font-size:30px; text-align:center;"> Hello! </p> 
 <div align="center"> <h2>I'm Khalil</h2> </div>
 <div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
