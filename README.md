@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<h1align="center">Hello, I'm Khalil</h1>
+<h1 align="center">Hello, I'm Khalil</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -30,7 +30,7 @@
                                   - 📫 You can reach me **khalilcreativeworks@gmail.com** - 
                                   
 <div>              
-<a align="center width="400" height="300"> <img src="service-now-asset-management-1_cover.png" /> 
+<a align="center" width="300" height="200"> <img src="service-now-asset-management-1_cover.png" /> 
 </a> </div>
 <h3 align="center">Connect with me</h3>
 <p align="center">
