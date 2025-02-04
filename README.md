@@ -21,13 +21,13 @@
 <h3 align="center">Applications Developer with a passion for continuous learning and an unbridled interest in ServiceNow Configuration and Database Management</h3>
  <p align="center"> 
    
-        - 🔭 I’m currently working on Corporate-Gifting ITSM application and Cloud Dimensions CMDB application - 
+         - 🔭 I’m currently working on Corporate-Gifting ITSM application and Cloud Dimensions CMDB application - 
           
-                - 🌱 I’m currently learning **ServiceNow Systems Administration Development + AngularJS** - 
+                 - 🌱 I’m currently learning **ServiceNow Systems Administration Development + AngularJS** - 
                   
-                            - 👨‍💻 All of my projects are available at github.com/Khalildevops - 
+                             - 👨‍💻 All of my projects are available at github.com/Khalildevops - 
                              
-                                 - 📫 You can reach me **khalilcreativeworks@gmail.com** - 
+                                  - 📫 You can reach me **khalilcreativeworks@gmail.com** - 
                                   
               
 <h3 align="center">Connect with me</h3>
