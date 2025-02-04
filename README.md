@@ -30,7 +30,8 @@
                                   - 📫 You can reach me **khalilcreativeworks@gmail.com** - 
                                   
 <div>              
-<p align="center" margin-right:30px margin-left:30px> <img src="ServiceNow.jpg" width="400" height="300"/> <img src="service-now-asset-management-1_cover.png" width="400" height="300"/>
+<p align="center" margin-right:20px margin-left:20px> <img src="ServiceNow.jpg" width="400" height="300"/> 
+  <img src="service-now-asset-management-1_cover.png" width="400" height="300"/>
 </p> 
 <h3 align="center">Connect with me</h3>
 <p align="center">
