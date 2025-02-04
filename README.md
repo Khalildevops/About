@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="black-business-man-working-laptop-handsome-african-american-bearded-guy-wearing-smart-casual-office-outfit-standing-320305084 (1) (1).jpg" width="100"/>
+  <img src="Khalil.jpg" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
