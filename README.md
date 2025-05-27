@@ -15,7 +15,7 @@
 <div align="center"> <h1>Hello!</h1>  <h2>I'm Khalil</h2> </div>
 <div align="center"> <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h3 align="center">UI/UX Developer with a passion for continuous learning and an unbridled interest in ServiceNow Configuration and Database Management</h3>
+<h3 align="center">Applications Developer with a passion for continuous learning and an unbridled interest in ServiceNow Configuration and Database Management</h3>
  <p align="center"> 
    
          - 🔭 I’m currently working on Corporate-Gifting ITSM application and Cloud Dimensions CMDB application - 
